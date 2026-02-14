@@ -1,5 +1,10 @@
-## Hi there 👋
+## Mohd Faizan
+Full-Stack Developer focused on building production-ready systems using Node.js and React.
 
+## Open to opportunities and technical discussions.
+
+LinkedIn: https://linkedin.com/in/mohd-faizan-27270732a
+Email: mohdfaiz0921078@gmail.com
 <!--
 **mohdfaizan091/mohdfaizan091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
