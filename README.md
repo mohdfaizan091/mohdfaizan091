@@ -1,22 +1,23 @@
-## Mohd Faizan
-Backend-leaning MERN dev · 3 production apps deployed · Building AI-powered tools · Open to SWE internships
+# Hi, I'm Mohd Faizan 👋
 
-## Open to opportunities and technical discussions.
+Backend-leaning Full-Stack Developer (MERN) · B.Tech CSE @ AKTU '27
 
-LinkedIn: https://linkedin.com/in/mohd-faizan-27270732a
-<br> 
-Email: mohdfaiz0921078@gmail.com
-<!--
-**mohdfaizan091/mohdfaizan091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't just build projects — I deploy them.
 
-Here are some ideas to get you started:
+##  What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Stack | Live |
+|---|---|---|
+| ScholarGO | Node.js · Express · React · MongoDB | [scholorgo.com](https://scholorgo.com) |
+| Career Tracker | MERN · JWT · HttpOnly Cookies | [Live](https://career-tracker-mu.vercel.app) |
+| Tars Chat | Next.js · Convex · Clerk · TypeScript | [Live](https://tars-chat-gold.vercel.app) |
+| AI Code Review | Node.js · Grok API · SSE · Monaco | In Progress |
+
+## 🛠️ Stack
+
+Node.js · Express · React · MongoDB · REST APIs · JWT · Zod · Anthropic Claude API · Git · Vercel · Render
+
+## 📬 Let's connect
+
+[LinkedIn](https://linkedin.com/in/mohd-faizan-27270732a)
+· mohdfaiz0921078@gmail.com
