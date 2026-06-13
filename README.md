@@ -9,7 +9,7 @@ I don't just build projects — I deploy them.
 | Project | Stack | Live |
 |---|---|---|
 | ScholarGO | Node.js · Express · React · MongoDB | [scholorgo.com](https://scholorgo.com) |
-| Career Tracker | MERN · JWT · HttpOnly Cookies | [Live](https://career-tracker-mu.vercel.app) |
+| Career Tracker | MERN · JWT · HttpOnly Cookies | [Live](https://career-tracker-mu.vercel.app/signup) |
 | Tars Chat | Next.js · Convex · Clerk · TypeScript | [Live](https://tars-chat-gold.vercel.app) |
 | AI Code Review | Node.js · Grok API · SSE · Monaco | In Progress |
 
