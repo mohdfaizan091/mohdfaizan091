@@ -15,7 +15,7 @@ I don't just build projects — I deploy them.
 
 ## 🛠️ Stack
 
-Node.js · Express · React · MongoDB · REST APIs · JWT · Zod · Anthropic Claude API · Git · Vercel · Render
+Node.js · Express · React · MongoDB · REST APIs · JWT · Zod · Git · Vercel · Render
 
 ## 📬 Let's connect
 
