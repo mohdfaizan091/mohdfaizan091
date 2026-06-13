@@ -1,5 +1,5 @@
 ## Mohd Faizan
-Full-Stack Developer focused on building production-ready systems using Node.js and React.
+Backend-leaning MERN dev · 3 production apps deployed · Building AI-powered tools · Open to SWE internships
 
 ## Open to opportunities and technical discussions.
 
