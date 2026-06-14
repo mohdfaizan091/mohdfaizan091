@@ -21,4 +21,4 @@ Node.js · Express · React · MongoDB · REST APIs · JWT · Zod · Git · Verc
 
 [LinkedIn](https://linkedin.com/in/mohd-faizan-27270732a)
 
-· mohdfaiz0921078@gmail.com
+mohdfaiz0921078@gmail.com
